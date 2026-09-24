@@ -1,6 +1,6 @@
 name = "ForFile_jll"
 uuid = "6f33c16a-0f55-58b7-88e1-c97938eef21f"
-version = "1.0.4+0"
+version = "1.0.5+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
