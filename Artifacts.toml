@@ -1,17 +1,17 @@
 [[ForFile]]
 arch = "x86_64"
-git-tree-sha1 = "ae649dadbdb3cb37d128efd7e0e45c613c40737b"
+git-tree-sha1 = "7af8031632ca90f7b582cb481b5f574a5fc52915"
 libc = "glibc"
 os = "linux"
 
     [[ForFile.download]]
-    sha256 = "3b6c2cb917cc32a5314bed084161c62a7f74d1c615ce1b59304a156401951186"
-    url = "https://github.com/sairus7/ForFile_jll.jl/releases/download/ForFile-v1.0.8+0/ForFile.v1.0.8.x86_64-linux-gnu.tar.gz"
+    sha256 = "f2924e1582bd44378aba8f7798b95d22d740c5d22246abdaefed6296dcb26317"
+    url = "https://github.com/sairus7/ForFile_jll.jl/releases/download/ForFile-v1.0.9+0/ForFile.v1.0.9.x86_64-linux-gnu.tar.gz"
 [[ForFile]]
 arch = "x86_64"
-git-tree-sha1 = "433ab9acd9ce86ff5b7c891743d4a9b62a2a2d0e"
+git-tree-sha1 = "92eb1f40c36cc46618437f7fe5861b40098e7281"
 os = "windows"
 
     [[ForFile.download]]
-    sha256 = "47b3fcff2ea6e6d7ad5d7dfeb5fe54bf09bcaeca30a59670ba342991c73fc771"
-    url = "https://github.com/sairus7/ForFile_jll.jl/releases/download/ForFile-v1.0.8+0/ForFile.v1.0.8.x86_64-w64-mingw32.tar.gz"
+    sha256 = "4615a27c6839c341c8d9ce35f98c55513ae8593b8bbe676714a508b211259afb"
+    url = "https://github.com/sairus7/ForFile_jll.jl/releases/download/ForFile-v1.0.9+0/ForFile.v1.0.9.x86_64-w64-mingw32.tar.gz"
